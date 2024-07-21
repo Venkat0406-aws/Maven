@@ -15,10 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <properties>
-    <sonar.login>your-sonar-login</admin>
-    <sonar.password>your-sonar-password</Venky@0406>
-</properties>
   <build>
     <finalName>java-web-project</finalName>
   </build>
